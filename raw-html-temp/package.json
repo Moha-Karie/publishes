@@ -1,0 +1,10 @@
+{
+  "name": "raw-html-temp",
+  "version": "1.0.0",
+  "description": "CLI to quickly generate a raw HTML template",
+  "bin": {
+    "raw-html-temp": "./bin/cli.js"
+  },
+  "keywords": ["html", "template", "cli"],
+  "license": "MIT"
+}
