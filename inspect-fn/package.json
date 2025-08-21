@@ -1,0 +1,16 @@
+{
+  "name": "inspect-fn",
+  "version": "1.0.0",
+  "description": "A simple function inspector utility for Node.js and browser",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "inspect",
+    "function",
+    "debug"
+  ],
+  "author": "Mohamed Abshir Karie",
+  "license": "MIT"
+}
